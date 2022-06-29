@@ -1,0 +1,41 @@
+{
+  "personalDeatils": {
+    "name": "SAI CHARAN REDDY  THUMMALA",
+    "phone": "9063553767",
+    "email": "thummalasaicharanreddy@gmail.com",
+    "address": "Hyderabad, Telangana"
+  },
+  "professionSkills": {
+    "languages": "HTML, CSS, Javascript",
+    "libraries/frameworks": "Reactjs, Nodejs, express",
+    "IDE": "VS code",
+    "tools": "Adobe photoshop, illustrator, Premier pro, after effects"
+  },
+  "languages": "Telugu, Hindi. English",
+  "certificates": {
+    "certificate1": "Responsive Web design",
+    "certificate2": "Front end development-HTML",
+    "certificate3": "Java Programmming",
+    "certificate4": "Marketing Foundations"
+  },
+  "internships": "Study of Armature in Turbo Generator",
+  "educationDetails": {
+    "undergraduation": {
+      "collegename": "Narsimha Reddy Engineering College",
+      "stream": "EEE",
+      "cgpa": "6.63",
+      "year": "2020"
+    },
+    "intermediate": {
+      "collegename": "Naryana Junior College",
+      "stream": "MPC",
+      "marks": "876",
+      "year": "2016"
+    },
+    "ssc": {
+      "schoolname": "ZPPHS bairanpally",
+      "cgpa": "8.8",
+      "year": "2014"
+    }
+  }
+}
